@@ -4,6 +4,7 @@
  - nineteendo - for his pyvz2 tool
  - Haruma - for his help with explaining algorithms 
  - vi_i_guess - for general file structure explanation [here](https://github.com/viiguess/Lawnstrings-Server).
+ - evilhack28 - Origianl translation [here](https://github.com/evilhack28/eviltranslation/)
 
 
 ---
