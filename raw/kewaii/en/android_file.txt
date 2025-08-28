@@ -1,47 +1,19 @@
-This translation was created by Evilhack28 and Evilgirl. We are not affiliated with the game or its developers in any way.
-
-This is completely free. You will never be asked to pay me personally or to subscribe to anything in order to access it.
-If you paid for this translation, you were scammed.
-
-Important Notice:
-You may not use any part of this file in your own translation—not even a single line—without permission.
-We’ve included unique markers to identify misuse, so if you copy our work, we’ll know.
-
 ==========================
- Evil Translation - Info
+ Kewaii Translation - Info
 ==========================
 
-File Version     : Text-based (v3.7.9 server 1)
-Current Version  : 1.12.1 (pre-release)
-Last Edit By     : Evilhack28
-GitHub           : https://github.com/evilhack28/eviltranslation
-Discord          : https://discord.com/invite/ngTHrgMVuw
-Youtube          : https://www.youtube.com/channel/UCFmcQubJ48LREVc3lk6OHFw
-Mod              : https://drive.google.com/drive/folders/1TNksqA_bYK0uAfXNdEmaKYMUo8i1M9nI?usp=drive_link
-
-
-                                                                               
-                                              .---.                    _       
-       __.....__       .----.     .----. .--. |   |                   ( `.     
-   .-''         '.      \    \   /    /  |__| |   |            ,.--.   '. \    
-  /     .-''"'-.  `.     '   '. /'   /   .--. |   |           //    \    \ \   
- /     /________\   \    |    |'    /    |  | |   |           \\    /     \ \  
- |                  |    |    ||    |    |  | |   |            `'--'       ' . 
- \    .-------------'    '.   `'   .'    |  | |   |            ,.--.       | | 
-  \    '-.____...---.     \        /     |  | |   |           //    \      ' ' 
-   `.             .'       \      /      |__| |   |           \\    /     / /  
-     `''-...... -'          '----'            '---'            `'--'     / /   
-                                                                       .' /    
-                                                                      (_.'   
-
-
+File Version     : Text-based (v3.8.1)
+Current Version  : 1.21.1 (pre-release)
+Last Edit By     : KewaiiGamer
+GitHub           : https://github.com/KewaiiGamer/pvz2-translation
 
 
 [COMPLAIN_ICON]
 Credits
 
 [COMPLAIN_CONTENT]
-^340202 evilhack28 ^oldclr     Creator of the mod and translation
+^340202 KewaiiGamer ^oldclr     Helpon the translation
+^340202 EvilHack28 ^oldclr     Creator of the mod and translation
 ^090320 evilgirl28 ^oldclr     Help on the translation and mod
 ^4B0082 cybersteve ^oldclr     Create the template for the translation on github
 ^008000 eluth      ^oldclrr    Help on the translation
@@ -52,7 +24,7 @@ Plants: 227/286 (55 broken wiki)
 Click the "12" in top right for ChangeLog
 
 [HEALTH_NOTICE_CONTENT_4]
-translate by evilhack28 version from August 24 1.12.1
+translate by Kewaii version from August 28 1.21.1
 
 [AGE_TIP]
 CREDIT
@@ -82,35 +54,35 @@ Kiwibeast - Icy Currant - Electric Peashooter - Tulip Trumpeter - Eggplant - Gol
 
 [SPRING_TIPS_1]
 ^ff6f4d If you see any MISSING text, report it to me!
-^000000 ~~ Made by EvilHack28 Last update August 24 (1.12.1) ~~
+^000000 ~~ Made by KewaiiGamer Last update August 28 1.21.1 ~~
 
 [SPRING_TIPS_2]
 ^c77dff Don’t forget to test my Music Patch!
-^000000 ~~ Made by EvilHack28 Last update August 24 (1.12.1) ~~
+^000000 ~~ Made by KewaiiGamer Last update August 28 1.21.1 ~~
 
 [SPRING_TIPS_3]
 ^4dff88 Have a great day!
-^000000 ~~ Made by EvilHack28 Last update August 24 (1.12.1) ~~
+^000000 ~~ Made by KewaiiGamer Last update August 28 1.21.1 ~~
 
 [SPRING_TIPS_4]
 ^4da6ff Don’t forget to do the daily Challenge!
-^000000 ~~ Made by EvilHack28 Last update August 24 (1.12.1) ~~
+^000000 ~~ Made by KewaiiGamer Last update August 28 1.21.1 ~~
 
 [SPRING_TIPS_5]
 ^4dffe5 Modding for 2 years now... kinda long, right? ^oldclrr
-^000000 ~~ Made by EvilHack28 Last update August 24 (1.12.1) ~~
+^000000 ~~ Made by KewaiiGamer Last update August 28 1.21.1 ~~
 
 [SPRING_TIPS_6]
 ^ffd84d If you need help, contact me on Discord!
-^000000 ~~ Made by EvilHack28 Last update August 24 (1.12.1) ~~
+^000000 ~~ Made by KewaiiGamer Last update August 28 1.21.1 ~~
 
 [SPRING_TIPS_7]
 ^a6a6a6 68 61 76 65 20 61 20 67 6F 6F 64 20 64 61 79
-^000000 ~~ Made by EvilHack28 Last update August 24 (1.12.1) ~~
+^000000 ~~ Made by KewaiiGamer Last update August 28 1.21.1 ~~
 
 [SPRING_TIPS_8]
-^66f2ff Made by ^FF0000 EvilHack28 ^oldclrr — enjoy the English translation!
-^000000 ~~ Made by EvilHack28 Last update August 24 (1.12.1) ~~
+^66f2ff Made by ^FF0000 KewaiiGamer ^oldclrr — enjoy the English translation!
+^000000 ~~ Made by KewaiiGamer Last update August 28 1.21.1 ~~
 
 
 
@@ -23718,7 +23690,7 @@ Different plants can upgrade into more other plants. Utilize their skills to pas
 
 [CREDITS_PVZ_TITLE]
 Plants vs. Zombies 2C
-Mod created by evilhack28
+Mod created by KewaiiGamer
 by popcap
 
 [CREDTIS_CHINA_PRODUCER]
@@ -25022,7 +24994,7 @@ Health Game Advisory
 A HIIDDEN TEXT WAS THERE YOU MISS THE EASTER EGG !!!
 
 [HEALTH_NOTICE_CONTENT_5]
-made by evilhack28
+made by KewaiiGamer
 
 [MARIGOLD]
 Marigold
@@ -60203,7 +60175,7 @@ Penny Treasures
 penny ticket Description
 
 [SECRET_GACHA_OVERVIEW_CONTENT]
-1. Made by evilhack28 (i wish you luuuuuuck and great open)
+1. Made by KewaiiGamer (i wish you luuuuuuck and great open)
 2. Treasure Single Draw Coupons can be obtained through cumulative recharge and other activities. Single Draw Coupons can be used as consumables for single draws.
 3. If players have Single Draw Coupons, they will be used first.Players can spend diamonds to purchase additional open
 4. Players can click the Plant Wishlist button in the lower right corner to replace the desired grand prize plant.
@@ -79373,4 +79345,926 @@ Cold Fact: Sea Urchin Pitcher Zombies have been scrubbing since the beginning of
 [ZOMBIE_SEAURCHINPITCHER_DESCRIPTION_HEADER]
 Throwing sea urchins destroys plants and oxygen supplies.
 
+[AGAVE_PLANTFOOD]
+Air Slash unleashes a shockwave attack against zombies within a line-shaped area ahead.
+
+[AQUAWEED_DESCRIPTION_HEADER]
+Summon sharks to attack enemies
+
+[ARTIFACT_CURE]
+Healing Artifact
+
+[ARTIFACT_CURE_DESCRIPTION]
+Heals all plants on the field and grants them an invulnerability shield.
+
+[ARTIFACT_CURE_SKILL_1]
+Life Pulse
+
+[ARTIFACT_CURE_SKILL_2]
+Mastery of Healing
+
+[ARTIFACT_CURE_SKILL_3]
+Regeneration
+
+[ARTIFACT_CURE_SKILL_4]
+Nature's Breath
+
+[ARTIFACT_CURE_SKILL_DESCRIPTION_1]
+Active Use: Restores {MainField_1}% HP to all plants while granting invulnerability for {MainField_2} seconds. Cooldown: 30 seconds. Usable {MainField_4} times per battle.
+
+[ARTIFACT_CURE_SKILL_DESCRIPTION_2]
+Passive Effect: Increases all plants' healing effects by {PassiveField1_1}%.
+
+[ARTIFACT_CURE_SKILL_DESCRIPTION_3]
+Passive Effect: All plants restore {PassiveField2_1}% of their maximum HP every 20 seconds.
+
+[ARTIFACT_CURE_SKILL_DESCRIPTION_4]
+Passive Effect: Increases active skill duration by {PassiveField3_2}%. Upon activation, also grants all plants 100% attack speed for {PassiveField3_1} seconds.
+
+[ARTIFACT_DEVOLVE]
+Devolve Artifact
+
+[ARTIFACT_DEVOLVE_DESCRIPTION]
+Degenerates zombies into weaker variants of themselves
+
+[ARTIFACT_DEVOLVE_SKILL_1]
+Degenerative Beam
+
+[ARTIFACT_DEVOLVE_SKILL_2]
+Mage Mastery
+
+[ARTIFACT_DEVOLVE_SKILL_3]
+Timed Degeneration
+
+[ARTIFACT_DEVOLVE_SKILL_4]
+Powerful Devolution
+
+[ARTIFACT_DEVOLVE_SKILL_DESCRIPTION_1]
+Active Use: Replaces all zombies on the field (except Giants) with randomly selected lower-tier zombies of the same class. Cooldown: {MainField_5} seconds. Usable {MainField_6} times per battle.
+
+[ARTIFACT_DEVOLVE_SKILL_DESCRIPTION_2]
+Passive Effect: Increases Mage-type plants' attack and defense attributes by {PassiveField1_1}%.
+
+[ARTIFACT_DEVOLVE_SKILL_DESCRIPTION_3]
+Passive Effect: Every {PassiveField2_1} seconds, randomly selects 3 zombies to devolve.
+
+[ARTIFACT_DEVOLVE_SKILL_DESCRIPTION_4]
+Passive Effect: Devolution has a 30% chance to instantly transform zombies into chicks.
+
+[ARTIFACT_HOLO]
+Holographic Artifact
+
+[ARTIFACT_HOLO_DESCRIPTION]
+Summon holographic projections of your plants to jointly defend against zombies.
+
+[ARTIFACT_HOLO_SKILL_1]
+Holographic Projection
+
+[ARTIFACT_HOLO_SKILL_2]
+Technological Advancement
+
+[ARTIFACT_HOLO_SKILL_3]
+Portable Projection
+
+[ARTIFACT_HOLO_SKILL_4]
+Zombie Analysis
+
+[ARTIFACT_HOLO_SKILL_DESCRIPTION_1]
+Active Use: After clicking the artifact button, the left projector activates, instantly generating a holographic projection on all plants in the field. The projection attacks zombies like the original plant but cannot cast Energy Bean ultimate skills. Lasts {MainField_1} seconds. During this duration, the original plant's attack power increases by {MainField_2}% and can block some zombie skills. Skill cooldown: 30 seconds. Usable {MainField_5} times per battle.
+
+[ARTIFACT_HOLO_SKILL_DESCRIPTION_2]
+Passive Effect: Increases attack and defense stats of Future Tech family plants by {PassiveField1_1}%.
+
+[ARTIFACT_HOLO_SKILL_DESCRIPTION_3]
+Passive Effect: Every {PassiveField2_1} seconds, casts a holographic projection onto 3 random plants across the field.
+
+[ARTIFACT_HOLO_SKILL_DESCRIPTION_4]
+Passive Effect: When activating an active skill, also projects a holographic clone (duplicates an identical friendly zombie unit) onto the 10 zombies farthest to the left on the entire field.
+
+[ARTIFACT_LIGHTNING]
+Lightning Artifact
+
+[ARTIFACT_LIGHTNING_DESCRIPTION]
+Inflicts random electrical charges on all zombies. Charges may cause stun, slow, percentage HP reduction, and other effects.
+
+[ARTIFACT_LIGHTNING_SKILL_1]
+Dual Charge
+
+[ARTIFACT_LIGHTNING_SKILL_2]
+Lightning Mastery
+
+[ARTIFACT_LIGHTNING_SKILL_3]
+Divine Retribution
+
+[ARTIFACT_LIGHTNING_SKILL_4]
+Chain Charge
+
+[ARTIFACT_LIGHTNING_SKILL_DESCRIPTION_1]
+Active Use: Randomly applies one layer of positive or negative charge to all zombies on the field. Reactivates this effect after 5 seconds. When zombies carry 2 layers of positive charge, they lose {MainField_1}% HP per second for 10 seconds.With 2 layers of negative charge, zombies are stunned for {MainField_2} seconds. With 1 layer of positive charge and 1 layer of negative charge, attack and movement speed decrease by {MainField_3}% for {MainField_4} seconds. Skill cooldown: 30 seconds. Usable {MainField_6} times per battle.
+
+[ARTIFACT_LIGHTNING_SKILL_DESCRIPTION_2]
+Passive Effect: Increases the attack and defense attributes of Lightning-type plants by {PassiveField1_1}%.
+
+[ARTIFACT_LIGHTNING_SKILL_DESCRIPTION_3]
+Passive Effect: Every 20 seconds, strikes 5 random zombies with lightning, dealing {PassiveField2_2}% of their current HP as damage.
+
+[ARTIFACT_LIGHTNING_SKILL_DESCRIPTION_4]
+Passive Effect: Charged zombies have a {PassiveField3_1}% chance to apply a random charge effect to 1-2 nearby zombies upon death. Each charge lasts 20 seconds on zombies.
+
+[ARTIFACT_MAGICBEANS]
+Magic Beans Artifact
+
+[ARTIFACT_MAGICBEANS_DESCRIPTION]
+Sprout magic beans to launch zombies skyward, then drop pods to blast them apart.
+
+[ARTIFACT_MAGICBEANS_SKILL_1]
+Plant Magic Beans
+
+[ARTIFACT_MAGICBEANS_SKILL_2]
+Pea Mastery
+
+[ARTIFACT_MAGICBEANS_SKILL_3]
+Pod Explosion
+
+[ARTIFACT_MAGICBEANS_SKILL_4]
+Newborn Pea
+
+[ARTIFACT_MAGICBEANS_SKILL_DESCRIPTION_1]
+Active Use:Select a tile to plant 1 magic bean seed. After a moment, the seed sprouts and instantly grows into a giant beanstalk, launching all plants and zombies within a 3x3 area into the air. The beanstalk possesses {MainField_1} HP.The vine can block zombies and periodically drops a pod, dealing {MainField_2} damage to a single zombie. Cooldown: {MainField_3} seconds. Usable {MainField_4} times per battle. 
+
+[ARTIFACT_MAGICBEANS_SKILL_DESCRIPTION_2]
+Passive Effect: Increases the attack and defense stats of Elite Pea family plants by {PassiveField1_1}%.
+
+[ARTIFACT_MAGICBEANS_SKILL_DESCRIPTION_3]
+Passive Effect: When dropped pods explode, they scatter Giant Peas in 8 directions, dealing {PassiveField2_1} damage to hit zombies.
+
+[ARTIFACT_MAGICBEANS_SKILL_DESCRIPTION_4]
+Passive Effect: Pods have a chance to drop Pea Plant cards upon bursting.
+
+[ARTIFACT_PRISMTOWER_SKILL_2]
+Reserve Enhancement
+
+[ARTIFACT_PRISMTOWER_SKILL_DESCRIPTION_2]
+Passive Effect: Increases the artifact's maximum energy storage to {PassiveField1_1} and accelerates energy regeneration to {PassiveField1_2} per second.
+
+[ARTIFACT_SQUID]
+Octopus Artifact
+
+[ARTIFACT_SQUID_DESCRIPTION]
+Summon an octopus to entangle all zombies on the field
+
+[ARTIFACT_SQUID_SKILL_1]
+Octopus from the Sky
+
+[ARTIFACT_SQUID_SKILL_2]
+Animal Mastery
+
+[ARTIFACT_SQUID_SKILL_3]
+Magical Octopus
+
+[ARTIFACT_SQUID_SKILL_4]
+Super Tentacles
+
+[ARTIFACT_SQUID_SKILL_DESCRIPTION_1]
+Active Use: Summons an octopus to entangle all small and medium-sized zombies on the field. Entangled zombies lose all movement ability and are immune to plant attacks. The octopus will only be devoured by other zombies. Each octopus has {MainField_1} HP. Skill cooldown: 30 seconds. Usable {MainField_3} times per battle.{MainField_3} times per battle.
+
+[ARTIFACT_SQUID_SKILL_DESCRIPTION_2]
+Passive Effect: Increases the attack and defense stats of plants with animal traits by {PassiveField1_1}%.
+
+[ARTIFACT_SQUID_SKILL_DESCRIPTION_3]
+Passive Effect: Every {PassiveField2_1} seconds, {PassiveField2_2} squids drop and entangle the nearest zombie.
+
+[ARTIFACT_SQUID_SKILL_DESCRIPTION_4]
+Passive Effect: Zombies entangled by the octopus take {PassiveField3_1}% of their maximum health in damage per second. Large zombies can also be entangled.
+
+[ARTIFACT_SWARM]
+Swarm Artifact
+
+[ARTIFACT_SWARM_DESCRIPTION]
+A weapon gifted to Dave by craftsmen of a mysterious tribe, capable of firing ammunition in rapid succession.
+
+[ARTIFACT_SWARM_SKILL_1]
+Barrage of Fire
+
+[ARTIFACT_SWARM_SKILL_2]
+Chivalrous Spirit
+
+[ARTIFACT_SWARM_SKILL_3]
+Rapid Reload
+
+[ARTIFACT_SWARM_SKILL_4]
+Enhanced Firepower
+
+[ARTIFACT_SWARM_SKILL_DESCRIPTION_1]
+The weapon starts with 90 bullets. Tap the artifact to fire a small burst at the nearest left zombie. Hold to enter rapid-fire mode and fire more bullets. When idle, the artifact begins reloading bullets.
+
+[ARTIFACT_SWARM_SKILL_DESCRIPTION_2]
+Passive Effect: Increases attack and defense attributes of Peach, Duyu Thrower, Tigerhead Mushroom, Swordleaf Dracaena, and Ice Shooter by {PassiveField1_1}%.
+
+[ARTIFACT_SWARM_SKILL_DESCRIPTION_3]
+Maximum bullet capacity increased to{PassiveField2_1}, and bullet recovery speed increases to 10
+
+[ARTIFACT_SWARM_SKILL_DESCRIPTION_4]
+Long press to fire blue-flame bullets instead of red-flame bullets, dealing double damage;After every 4 bullets fired, a large bullet is launched dealing 3 times the damage of a crimson fire bullet and knocking back small-to-medium zombies by 0.1 tiles upon hit.
+
+[ARTIFACT_TIME]
+Time Artifact
+
+[ARTIFACT_TIME_DESCRIPTION]
+Teleports all zombies back to the starting point
+
+[ARTIFACT_TIME_SKILL_1]
+Time Rewind
+
+[ARTIFACT_TIME_SKILL_2]
+Rest Duration Reduction
+
+[ARTIFACT_TIME_SKILL_3]
+Pause Barrier
+
+[ARTIFACT_TIME_SKILL_4]
+Acceleration Barrier
+
+[ARTIFACT_TIME_SKILL_DESCRIPTION_1]
+Active Use: Restores all zombies' health to full and returns them to starting positions. 30-second cooldown. Usable {MainField_2} times per battle.
+
+[ARTIFACT_TIME_SKILL_DESCRIPTION_2]
+Passive Effect: Reduces plant rest time by {PassiveField1_1}%.
+
+[ARTIFACT_TIME_SKILL_DESCRIPTION_3]
+Passive Effect: When the active skill activates, it creates a Time Pause Barrier within a 3×5 area on the right. Plants and zombies within this area will stop moving but remain vulnerable to attacks. Lasts {PassiveField2_1} seconds.
+
+[ARTIFACT_TIME_SKILL_DESCRIPTION_4]
+Passive Effect: When the active skill is activated, it also creates an acceleration field within a 3×5 area to the left. Plants within this area move {PassiveField3_1}% faster. The duration matches that of the time-stop field.
+
+[ARTIFACT_VASE]
+Vase Toss Artifact
+
+[ARTIFACT_VASE_DESCRIPTION]
+Randomly throws 10 vases across the field. Each vase randomly drops zombies, plant cards, or sunlight.
+
+[ARTIFACT_VASE_SKILL_1]
+Pot Rain
+
+[ARTIFACT_VASE_SKILL_2]
+Throwing Mastery
+
+[ARTIFACT_VASE_SKILL_3]
+Heavenly Pot Shower
+
+[ARTIFACT_VASE_SKILL_4]
+Pot Refurbishment
+
+[ARTIFACT_VASE_SKILL_DESCRIPTION_1]
+Active Use: Randomly drops 10 pots across the field.Vases randomly drop items like Energy Bean Zombies, Plant Cards, and Sunlight. Item strength scales with Artifact level. Cooldown: 30 seconds. Usable {MainField_2} times per battle.
+
+[ARTIFACT_VASE_SKILL_DESCRIPTION_2]
+Passive: Increases attack and defense stats of thrown plants by {PassiveField1_1}%.
+
+[ARTIFACT_VASE_SKILL_DESCRIPTION_3]
+Passive Effect: Every {PassiveField2_1} seconds, randomly drops one pot onto the field.
+
+[ARTIFACT_VASE_SKILL_DESCRIPTION_4]
+Passive Effect: Items inside pots transform into better, stronger, and more beautiful versions.
+
+[ARTIFACT_WEATHERMONKEY]
+Skyrocket Artifact
+
+[ARTIFACT_WEATHERMONKEY_DESCRIPTION]
+Launches skyrockets that deal damage to zombies and knock them back.
+
+[ARTIFACT_WEATHERMONKEY_SKILL_1]
+Skyrocket
+
+[ARTIFACT_WEATHERMONKEY_SKILL_2]
+Arms Expertise
+
+[ARTIFACT_WEATHERMONKEY_SKILL_3]
+Firecracker Barrage
+
+[ARTIFACT_WEATHERMONKEY_SKILL_4]
+Firepower Boost
+
+[ARTIFACT_WEATHERMONKEY_SKILL_DESCRIPTION_1]
+Active Use: Summons and launches a skyrocket firecracker from the left side of the field. The firecracker flies rightward and explodes upon hitting zombies.The explosion deals {MainField_1} damage within a 3×3 area and knocks back nearby zombies. Fires one wave every 3 seconds, totaling {MainField_2} waves. Skill cooldown: 30 seconds. Usable {MainField_4} times per battle.
+
+[ARTIFACT_WEATHERMONKEY_SKILL_DESCRIPTION_2]
+Passive Effect: Increases the attack and defense stats of Armory family plants by {PassiveField1_1}%.
+
+[ARTIFACT_WEATHERMONKEY_SKILL_DESCRIPTION_3]
+Passive Effect: Every 15 seconds, fires 5 small skyrockets that track zombies and deal single-target damage equal to {PassiveField2_1}% of their current health.
+
+[ARTIFACT_WEATHERMONKEY_SKILL_DESCRIPTION_4]
+Passive: Large firecrackers push the first zombie they contact 2 tiles before exploding.
+
+[ARTIFACT_WIND]
+Divine Wind Artifact
+
+[ARTIFACT_WIND_SKILL_1]
+Divine Wind Assault
+
+[ARTIFACT_WIND_SKILL_2]
+Ninja Mastery
+
+[ARTIFACT_WIND_SKILL_3]
+Heaven-Sent Gale
+
+[ARTIFACT_WIND_SKILL_4]
+Wind Power Boost
+
+[ARTIFACT_WIND_SKILL_DESCRIPTION_1]
+Active Use: Generates a divine wind to push all small and medium zombies {MainField_1} spaces back. Simultaneously creates a large whirlwind in the second space on the right of the middle row, gathering all zombies within a 5×5 area to the center. Lasts {MainField_2} seconds. Skill cooldown: 30 seconds. Usable {MainField_4} times per battle.
+
+[ARTIFACT_WIND_SKILL_DESCRIPTION_2]
+Passive Effect: Increases Attack and Defense stats of Ninja-type plants by {PassiveField1_1}%.
+
+[ARTIFACT_WIND_SKILL_DESCRIPTION_3]
+Passive Effect: Every {PassiveField2_1} seconds, creates a divine wind in a random row, pushing back zombies in that row {PassiveField2_2} spaces.
+
+[ARTIFACT_WIND_SKILL_DESCRIPTION_4]
+Passive Effect: Divine winds created by active skills have a {PassiveField3_1}% chance to instantly knock back small and medium-sized zombies.
+
+[BAMBOO_PLANTFOOD]
+Charges power into its drill, launching a powerful piercing attack that knocks enemies back.
+
+[BATTLE_ORDER_SELECT_TITLE_]
+Choose one of five fragments.
+
+[BIRTHSUNFLOWER_PLANTFOOD]
+Holds a concert, generating massive sunlight.
+
+[BLOOMERANG_PLANTFOOD]
+Throws multiple boomerangs, striking all zombies above, below, left, and right.
+
+[BLOVER_PLANTFOOD]
+Energy Beans have no effect.
+
+[BONKCHOY_PLANTFOOD]
+Delivers rapid punches, dealing massive damage to enemies in surrounding tiles.
+
+[BONKCHOY_SKILL_LEVEL5]
+Earthquake Punch
+
+[BONKCHOY_SKILL_LEVEL5_DES]
+After two uppercuts, the cabbage leaps to deliver an Earthquake Punch, dealing damage and stunning zombies.
+
+[BOSS_CHALLENGE_HEAD_ID_10000]
+This is an avatar.
+
+[BUDUHBOOM_SKILL1_LEVEL1]
+More Butter
+
+[BUDUHBOOM_SKILL1_LEVEL2_DES]
++2 Butter Pits thrown after explosion ends
+
+[BUDUHBOOM_SKILL_LEVEL2]
+Butter Hell
+
+[BUDUHBOOM_SKILL_LEVEL2_DES]
++2 butter pits thrown after explosion ends
+
+[BUTTON_AGREE]
+Agree
+
+[BUTTON_DISAGREE]
+Disagree
+
+[BUTTON_DISAGREE_CANCEL]
+Return
+
+[BUTTON_DISAGREE_CONFIRM]
+Still disagree
+
+[CABBAGEPULT_PLANTFOOD]
+Launches a large cabbage at each zombie on the lawn.
+
+[CHARDGUARD_PLANTFOOD]
+Restores full health, then damages and knocks back zombies within 6 tiles.
+
+[CHERRY_BOMB_PLANTFOOD]
+Energy beans have no effect.
+
+[CHILIBEAN_PLANTFOOD]
+Launches three castor beans in random directions across the lawn.
+
+[COCONUTCANNON_PLANTFOOD]
+Fires a massive cannonball, knocking hit zombies to the far right of the lawn and exploding them.
+
+[COTTONYETI_PLANTFOOD]
+Summon a giant snowman that tramples zombies within a certain range in front.
+
+[COTTONYETI_PRODUCT_SHORT_DESC]
+Cotton Yeti
+
+[ELECTRICPEEL]
+Electric Eel Banana
+
+[ELECTRICPEEL_DESCRIPTION]
+{KEYWORD}Range: {STAT}4 tiles forward
+
+[ELECTRICPEEL_PLANTFOOD_DESCRIPTION]
+Summon a super electric eel that pierces through one row ahead, instantly killing all small and medium zombies in its path and damaging those it cannot instantly kill. The level of zombies it can instantly kill generally does not exceed twice the plant's own level.
+
+[ELECTRICPEEL_TOOLTIP]
+Release the electric eel to move forward and electrocute zombies
+
+[ELITE_ZOMBIE_TIPS_TEXT_ELITE_HEIAN_ONMYOJI_PVZ1_HARD]
+^573701^ Special training grants immunity to control, morph, and one-shot effects. All damage taken is reduced to 500 points.^oldclr^
+
+[ELITE_ZOMBIE_TIPS_TEXT_ELITE_HEIAN_ONMYOJI_PVZ1_NORMAL]
+^573701^After special training, becomes immune to control, morph, and instant kill effects. Damage taken is reduced to 500 per instance.^oldclr^
+
+[ELITE_ZOMBIE_TIPS_TEXT_ELITE_ROMAN_BALLISTA_PVZ1_HARD]
+^573701^After special training, it becomes immune to control, transformation, and instant kill effects. All damage taken is reduced to 500 points.^oldclr^
+
+[ELITE_ZOMBIE_TIPS_TEXT_ELITE_ROMAN_BALLISTA_PVZ1_NORMAL]
+^573701^After elite training, it becomes immune to control, transformation, and instant kill effects. All damage taken is reduced to 500 points.^oldclr^
+
+[ELITE_ZOMBIE_TIPS_TEXT_ELITE_ROMAN_HEALER_PVZ1_HARD]
+^573701^After elite training, it becomes immune to control, transformation, and instant kill effects. All damage taken is reduced to 500 points.^oldclr^
+
+[ELITE_ZOMBIE_TIPS_TEXT_ELITE_ROMAN_HEALER_PVZ1_NORMAL]
+^573701^After special training, it becomes immune to control, transformation, and instant kill effects. All damage taken is reduced to 500 points.^oldclr^
+
+[ELITE_ZOMBIE_TIPS_TEXT_ELITE_SKYCITY_ELECTRIC_PVZ1_HARD]
+^573701^After special training, it becomes immune to control, transformation, and instant kill effects. All damage taken is reduced to 500 points.^oldclr^
+
+[ELITE_ZOMBIE_TIPS_TEXT_ELITE_SKYCITY_ELECTRIC_PVZ1_NORMAL]
+^573701^After special training, it becomes immune to control, transformation, and instant kill effects. All damage taken is reduced to 500 points.^oldclr^
+
+[EMPEA_PLANTFOOD]
+Energy Beans have no effect.
+
+[FIREGOURD_PLANTFOOD]
+Spews fire across an entire row forward
+
+[GIFT_FOR_RETURN_UPDATE_NEW_2]
+New Plant Added
+
+[GRAVEBUSTER_PLANTFOOD]
+Power-Ups have no effect.
+
+[HEALTH_NOTICE_CONTENT_3_1]
+This online game is suitable for users aged 12 and above. For your health, please control your gaming time reasonably. Reject harmful games and refuse pirated games.
+
+[HOLONUT_PLANTFOOD]
+Energy Beans have no effect.
+
+[ICEBURG_PLANTFOOD]
+Instantly freezes all zombies on the lawn.
+
+[IMITATER_PLANTFOOD]
+Replicates the special effects of the copied plant.
+
+[IMPATIENSSHOOTER_AVATAR_NAME]
+Impatiens Avatar
+
+[JALAPENO_PLANTFOOD]
+Power Beans have no effect.
+
+[KERNELPULT_PLANTFOOD]
+Triggers a Butter Storm, causing all zombies on the lawn to freeze for several seconds.
+
+[LASER_BEAN_PLANTFOOD]
+Power Beans have no effect.
+
+[LIGHTNINGREED_PLANTFOOD]
+Generates a cloud that fires lightning bolts at passing zombies.
+
+[LIMITED_SUMMON_SHORT_DESCRIPTION]
+Participate in the limited-time summon event, purchase discounted bundles, and earn rewards based on cumulative summons. Summon a set number of times to guarantee a themed plant.
+
+[MAGNIFYINGGRASS_NEW_SKILL_LEVEL5_DES]
+Has a 40% chance to throw 3 Ice Melon Slices dealing 300 damage and freezing zombies for 2 seconds. Ice Melon Slices also cause splash damage, dealing 60 damage to zombies within a 3x3 area.
+
+[MAGNIFYINGGRASS_PLANTFOOD]
+Power Beans have no effect.
+
+[MELONPULT_PLANTFOOD]
+Launches a heavy watermelon, striking all zombies on the lawn.
+
+[MOONFLOWER_NEW_SKILL_LEVEL5_DES]
+The Super Flower has a 25% chance to fire a colorful beam, dealing lethal damage to zombies that cannot be charmed.
+
+[MORNINGGLORY_PLANTFOOD]
+Launches a sonic barrier, blocking a row of zombies and dealing continuous damage.
+
+[NARRATIVE_MAP_PVPEVILDAVID_SUCCESS_1_INTRO_1]
+{NPC_ENTER:evilcrazydave}{EXCITED}Oh yo,Not bad, but don't worry—this isn't even my full potential as highly educated Dave. 
+
+[NARRATIVE_MODERN_15_OUTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE} Look, Penny! My corn tortilla!
+
+[NARRATIVE_RESILIENCE2_1]
+{NPC_ENTER:winnie} Careful, this one's tricky.
+
+[NARRATIVE_RESILIENCE3_1]
+{NPC_ENTER:crazydave} Let me attack with my favorite Pea Shooter.
+
+[NARRATIVE_RESILIENCE5_1]
+{NPC_ENTER:winnie} Beep beep beep... The scan results are in.
+
+[NARRATIVE_RESILIENCE5_2]
+{SAY:winnie} The report says this is Dr. Zombie's latest creation! We need to find a way to break through its toughness to defeat it!
+
+[NARRATIVE_RESILIENCE5_3]
+{SAY:winnie} The zombie currently has high damage reduction. Only by breaking its resilience can we deal normal damage.
+
+[NARRATIVE_RESILIENCE5_4]
+{SAY:winnie} That yellow bar shows the zombie's Resilience value. See the icon next to it?
+
+[NEW_AVATAR_DESCRIPTION_ELECTRICPEEL_2]
+Sunlight Consumption reduced by 35 points
+
+[NEW_AVATAR_DESCRIPTION_JACKFRUIT_2]
+Seed Life increased by 20%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_ELAEOCARPUS_3]
+Jackfruit Eternal Return Outfit
+
+[NEW_AVATAR_SHORT_DESCRIPTION_JACKFRUIT_2]
+Jackfruit Eye Mask Outfit
+
+[NEW_PVP_TASK_DESCRIPTION_26]
+1. Players earn experience by completing daily challenges and tasks from 4 weekly challenges. Every 1000 experience points collected advances to the next level, granting corresponding level rewards.
+
+[NEW_PVP_TASK_DESCRIPTION_27]
+1. Players earn experience by completing daily challenges and tasks from the 4 weekly challenges. Every 1000 experience points collected allows players to advance to the next level and obtain corresponding level rewards.
+
+[NEW_PVP_TASK_DESCRIPTION_28]
+1. Players earn experience by completing daily challenges and tasks from the 4 weekly challenges. Every 1000 experience points collected allows players to advance to the next level and obtain corresponding level rewards.
+
+[NEW_PVP_TASK_DESCRIPTION_29]
+1. Players gain experience by completing daily challenges and tasks from the 4 weekly challenges. Every 1000 experience points collected allows players to advance to the next level and obtain corresponding level rewards.
+
+[NEW_PVP_TASK_DESCRIPTION_33]
+1. Players gain experience by completing daily challenges and tasks from the 4 weekly challenges. Every 1000 experience points collected allows players to advance to the next level and obtain corresponding level rewards.
+
+[NEW_PVP_TASK_DESCRIPTION_34]
+1. Players earn experience by completing daily challenges and tasks from the 4 weekly challenges. Every 1000 experience points collected allows progression to the next level, unlocking corresponding level rewards.
+
+[NFS_LINKAGE_TAB2_3]
+Snail Tasks
+
+[PEACH_PLANTFOOD]
+Generates an invincibility shield, protecting surrounding plants from damage
+
+[PEAPOD_PLANTFOOD]
+Summon an oversized pea head that fires 5 giant peas.
+
+[PEASHOOTER_PLANTFOOD]
+Rapidly fires a volley of peas, dealing massive damage.
+
+[PEASHOOTER_SPUERSKILL_DES]
+Super Pea Bullets: Effectiveness increased by 100%.
+
+[PEASHOOTER_SPUERSKILL_NAME]
+Super Bullet
+
+[PLANTING_ESCAPEROOT_CANT_PLANT_HERE]
+Escape Roots cannot plant here
+
+[PLANTING_ESCAPEROOT_CANT_SWAP_AFFECTED_PLANTS]
+Escape Roots cannot swap positions with plants currently swapping positions or captured
+
+[PLANTING_ESCAPEROOT_CANT_SWAP_PLANTFOODED_PLANTS]
+Escape Root cannot swap positions with plants currently using energy beans
+
+[PLANTING_ESCAPEROOT_CANT_SWAP_THIS_PLANT]
+Escape Root cannot swap positions with this plant
+
+[PLANTING_ESCAPEROOT_CANT_SWAP_WATER_PLANTS]
+Escape Root cannot swap positions with plants currently dancing
+
+[PLANT_FAMILY_NAME_50037]
+Feeling a bit dizzy
+
+[POTATOMINE_AVATAR_PLANTFOOD_DESCRIPTION]
+Potato Mine instantly prepares and splits into ^ff0000^ three ready-to-use Potato Mines. ^oldclr^
+
+[POTATOMINE_PLANTFOOD]
+The main plant is instantly ready and plants 2 ready clones in random grass tiles.
+
+[POWERLILY_PLANTFOOD]
+Power Lily has no effect.
+
+[PRODUCT_ESCAPEROOT_DESCRIPTION]
+Can explode or swap positions!
+
+[PRODUCT_STRAWBURST_DESCRIPTION]
+Grows strawberries that deal varying damage from small to large!
+
+[PRODUCT_STRAWBURST_NAME]
+Plant-Exploding Strawberry
+
+[REPEATER_PLANTFOOD]
+Fires a string of peas, culminating in a giant pea that deals massive damage to the target.
+
+[SHADOWPEASHOOTER_PRODUCT_SHORT_DESC]
+Electric Peas shoot bullets that damage surrounding units around the center.
+
+[SNAPDRAGON_PLANTFOOD]
+Generates a 3x3 grid of flames, dealing massive damage.
+
+[SNOWPEA_NEW_SKILL_LEVEL5_DES]
+Has a chance to fire an enhanced ice shard. Upon hitting a zombie, it freezes the target. The explosion damages zombies within 1 tile radius and creates a frozen patch that lasts 3 seconds, slowing zombies standing on it.
+
+[SNOWPEA_PLANTFOOD]
+Rapidly fires a wave of ice peas, transforming the lawn in front into an icy path.
+
+[SNOWPEA_SKILL1_LEVEL5]
+Biting Cold Spike
+
+[SNOWPEA_SKILL1_LEVEL5_DES]
+Has a chance to fire an enhanced ice spike. Upon hitting a zombie, it freezes the target. The explosion deals damage to zombies within a 1-tile radius and leaves a frozen patch on the ground for 3 seconds, slowing any zombies standing on it.
+
+[SPECIALIST_PLANT_COST_DIFFICULTY_1]
+Specialist Plant Cost Increase (1-star)
+
+[SPECIALIST_PLANT_COST_DIFFICULTY_1_DESCRIPTION]
+Planting Specialist plants now costs triple the sunlight.
+
+[SPIKEROCK_PLANTFOOD]
+Drives spikes into all zombies in its row, dealing damage.
+
+[SPIKEWEED_PLANTFOOD]
+Spikes pierce all Zombies in the row, dealing damage.
+
+[SPLITPEA_NEW_SKILL_LEVEL5_DES]
+Attacks have a 50% chance to summon an additional fire dragon, dealing 3600 fire damage to the entire row.
+
+[SPLITPEA_PLANTFOOD]
+Rapidly fires high-damage peas forward and backward.
+
+[SPRINGBEAN_PLANTFOOD]
+Slams the ground, flinging all zombies back to the far right of the lawn.
+
+[SPRING_TIPS_9]
+Nutrients required for plant level 5 advancement can be obtained from the Endless Shop.
+
+[SQUASH_PLANTFOOD]
+Instantly crush multiple troublesome targets on the lawn before returning to its original position.
+
+[STORE_PRODUCT_AVATAR_POTATO]
+Ultimate ability: Splits an additional potato mine.
+
+[STUNION_PLANTFOOD]
+Instantly exhales a large stun cloud across the three rightmost lawn columns.
+
+[SUGGEST_TUTORIAL_DESCRIPTION]
+Need help choosing plants? Enhanced selections let you acquire powerful attackers, defenders, or sun producers to help secure victory.
+
+[SUNFLOWER_PLANTFOOD]
+Consistently generates large amounts of sun.
+
+[SUNSHROOM_NEW_SKILL_LEVEL5_DES]
+Scatters sunlight spores around, increasing plant attack power by 50% and fungal attack power by 100% within a 3x3 radius.
+
+[SUPER_POWERPLANT]
+Tile Radish
+
+[SURVEY_ANSWER_4]
+ca=Create Levels|Play Levels|Creator Leaderboard|Redeem Store|
+
+[SURVEY_ANSWER_5]
+ca=Very helpful for clearing levels|More entertaining than useful|Generally weak or has side effects|Haven't experienced it yet|
+
+[SURVEY_ANSWER_6]
+ca=Very helpful for clearing levels|More entertaining than useful|Generally weak or has side effects|Haven't experienced it yet|
+
+[SURVEY_ANSWER_7]
+ca=Didn't find it difficult, handled it easily|Overall challenging but manageable|Quite difficult, struggled to clear|Haven't experienced Season 3 yet|
+
+[SURVEY_ANSWER_8]
+ca=Very helpful for clearing the level|More entertaining than useful|Overall weak or had side effects|Haven't obtained this plant yet|
+
+[SURVEY_ANSWER_9]
+ca=Very helpful for clearing the level|More entertaining than practical|Overall weak or has side effects|Haven't obtained this plant yet|
+
+[SWEETPOTATO_PLANTFOOD]
+Activating its ultimate ability grants temporary invulnerability.
+
+[SWEETPOTATO_TOOLTIP]
+Attracts nearby zombies and blocks their path.
+
+[TALLNUT_PLANTFOOD]
+Generates metal armor, significantly boosting the Nut's defense.
+
+[THREEPEATER_PLANTFOOD]
+Launches a wave of peas, creating a pea wave across the lawn.
+
+[TIME_SUMMON_HEAD_ID_25688]
+Time-limited summon participant
+
+[TORCHWOOD_PLANTFOOD]
+Permanently emits blue flames; Blue Flame Peas deal double damage compared to regular Flame Peas.
+
+[TURNIP_PLANTFOOD]
+Generates additional turnips.
+
+[TWINSUNFLOWER_PLANTFOOD]
+Continuously produces numerous extra suns.
+
+[WALLNUT_PLANTFOOD]
+Generates metal armor, significantly boosting the Nut's defense.
+
+[WINTERMELON_PLANTFOOD]
+Launches heavy ice watermelons to strike all zombies on the lawn.
+
+[WORLDMAP_YETI_EVENT_ALERT_HEADER_2]
+Treasure Yeti
+
+[WORLDMAP_YETI_OTHER_WORLD_ALERT_HEADER_2]
+Treasure Yeti
+
+[WORLD_PREVIEW_TEASER_FUTURE]
+More Levels
+
+[WORLD_PREVIEW_TEASER_HEADER_FUTURE]
+More Options
+
+[WORLD_PREVIEW_TEASER_HEADER_ICEAGE]
+All-New Ice Age World!
+
+[WORLD_PREVIEW_TEASER_HEADER_SKYCITY]
+Brand-new sky scenes!
+
+[ZOMBIE_BARRELROLLER]
+Barrel Roller Zombie
+
+[ZOMBIE_BARRELROLLER_DESCRIPTION]
+{KEYWORD}Features: {STAT}Crush plants with barrels; upon destruction, releases Imp Zombies from the barrel
+
+[ZOMBIE_BARRELROLLER_DESCRIPTION_HEADER]
+The barrel not only crushes plants but also provides excellent protection.
+
+[ZOMBIE_CAMEL_MANYHUMP]
+Camel Zombie
+
+[ZOMBIE_CAMEL_MANYHUMP_DESCRIPTION_HEADER]
+The leader of a group of multiple camels.
+
+[ZOMBIE_CAMEL_SEGMENT]
+Camel Zombie
+
+[ZOMBIE_CAMEL_SEGMENT_DESCRIPTION_HEADER]
+Just one hump from a camel group.
+
+[ZOMBIE_CAMEL_TWOHUMP]
+Camel Zombie
+
+[ZOMBIE_CAMEL_TWOHUMP_DESCRIPTION_HEADER]
+The leader of a two-camel group.
+
+[ZOMBIE_EIGHTIES_ARMOR1_DESCRIPTION]
+The Rock Barricade Zombie once fervently believed in devolution, but later forgot the meaning of the word.
+
+[ZOMBIE_EIGHTIES_ARMOR1_DESCRIPTION_HEADER]
+Barricades provide protection and help focus the ears on the voice of justice.
+
+[ZOMBIE_ELITE_HEIAN_ONMYOJI_PVZ1_HARD]
+Onmyoji Zombie
+
+[ZOMBIE_ELITE_HEIAN_ONMYOJI_PVZ1_HARD_DESCRIPTION]
+{KEYWORD}Features: {STAT}Wielding his fan summons winds of fortune!!
+
+[ZOMBIE_ELITE_HEIAN_ONMYOJI_PVZ1_HARD_DESCRIPTION_HEADER]
+The Onmyoji Zombie is passionate about crafting unique fans. This time, he brings a shrine fan named: Lucky Star.
+
+[ZOMBIE_ELITE_HEIAN_ONMYOJI_PVZ1_NORMAL]
+Onmyoji Zombie
+
+[ZOMBIE_ELITE_HEIAN_ONMYOJI_PVZ1_NORMAL_DESCRIPTION]
+{KEYWORD}Features: {STAT}Waving his fan stirs up winds of fortune!!
+
+[ZOMBIE_ELITE_HEIAN_ONMYOJI_PVZ1_NORMAL_DESCRIPTION_HEADER]
+The Onmyoji Zombie is passionate about crafting unique fans. This time, he brings a shrine fan named: Lucky Star.
+
+[ZOMBIE_ELITE_ROMAN_BALLISTA_PVZ1_HARD]
+Elite Roman Ballista
+
+[ZOMBIE_ELITE_ROMAN_BALLISTA_PVZ1_HARD_DESCRIPTION]
+Good heavens! Those exploding vases contain not only zombies but chickens too! This is utterly heartbreaking!
+
+[ZOMBIE_ELITE_ROMAN_BALLISTA_PVZ1_HARD_DESCRIPTION_HEADER]
+The zombie operating this siege engine has always been different from other zombies. He lacks any sense of humor or irony and constantly flaunts his superior intellect. Though his custom-built siege engine can launch more vases at once, his terrible reputation means few zombies volunteer to enter his vases. Consequently, he's forced to stuff them full of chickens instead.
+
+[ZOMBIE_ELITE_ROMAN_BALLISTA_PVZ1_NORMAL]
+Elite Roman Ballista
+
+[ZOMBIE_ELITE_ROMAN_BALLISTA_PVZ1_NORMAL_DESCRIPTION]
+Good heavens! Those exploding vases contain not only zombies but chickens too! This is utterly heartbreaking!
+
+[ZOMBIE_ELITE_ROMAN_BALLISTA_PVZ1_NORMAL_DESCRIPTION_HEADER]
+The zombie operating this ballista has always been different from his peers. Devoid of any sense of humor or irony, he constantly flaunts his superior intellect. Though his custom-built ballista can launch more vases at once, his notoriously bad reputation means few zombies volunteer to enter his vases. Consequently, he's forced to stuff them full of chickens instead.
+
+[ZOMBIE_ELITE_ROMAN_HEALER_PVZ1_HARD]
+Elite Roman Healer Zombie
+
+[ZOMBIE_ELITE_ROMAN_HEALER_PVZ1_HARD_DESCRIPTION]
+Now it not only heals all nearby zombies with strange Roman magic, but also grants them invincibility.
+
+[ZOMBIE_ELITE_ROMAN_HEALER_PVZ1_HARD_DESCRIPTION_HEADER]
+Typically, Healer Zombies only cast healing spells on other zombies. That was until the day he was defeated by demons. His soul ascended to the snowy mountain peak and vanquished a dragon. From that moment on, this ancient zombie unlocked new realms, and his divine staff gained even greater magical power.
+
+[ZOMBIE_ELITE_ROMAN_HEALER_PVZ1_NORMAL]
+Elite Healer Zombie
+
+[ZOMBIE_ELITE_ROMAN_HEALER_PVZ1_NORMAL_DESCRIPTION]
+Now it not only heals all zombies on the field with strange Roman magic, but also grants them invincibility.
+
+[ZOMBIE_ELITE_ROMAN_HEALER_PVZ1_NORMAL_DESCRIPTION_HEADER]
+Typically, Healer Zombies only cast healing spells on other zombies. Until one day, he was defeated by demons. His soul ascended to the snowy mountain peak and vanquished a dragon. From then on, this ancient zombie unlocked new powers, and the divine staff gained even greater magic.
+
+[ZOMBIE_ELITE_SKYCITY_ELECTRIC_PVZ1_HARD]
+Lightning Gun Zombie
+
+[ZOMBIE_ELITE_SKYCITY_ELECTRIC_PVZ1_HARD_DESCRIPTION]
+{FLAVOR} Nicknamed “Frankenstein,” the Lightning Gun Zombie spends his days in the lab perfecting his lightning gun. He's clearly frustrated by his unruly silver hair.“Sometimes, science demands a little personal sacrifice,” the Lightning Gun Zombie shrugs. 
+
+[ZOMBIE_ELITE_SKYCITY_ELECTRIC_PVZ1_HARD_DESCRIPTION_HEADER]
+Uses its Lightning Gun to fire charged attacks at plants.
+
+[ZOMBIE_ELITE_SKYCITY_ELECTRIC_PVZ1_NORMAL]
+Lightning Gun Zombie
+
+[ZOMBIE_ELITE_SKYCITY_ELECTRIC_PVZ1_NORMAL_DESCRIPTION]
+{FLAVOR} Stronger charges, wider range—the mightier Lightning Gun Zombie returns with the upgraded Lightning Gun 2.0! As for how many strands of hair were sacrificed to achieve this, the Lightning Gun Zombie couldn't care less.
+
+[ZOMBIE_ELITE_SKYCITY_ELECTRIC_PVZ1_NORMAL_DESCRIPTION_HEADER]
+Uses its lightning gun to fire charged attacks at plants.
+
+[ZOMBIE_FAIRY_TALE_ARMED_GARGANTUAR]
+Guardian Gargantuars
+
+[ZOMBIE_FAIRY_TALE_ARMED_GARGANTUAR_DESCRIPTION]
+{KEYWORD}Features: {STAT}Powerful damage reduction. The shield in its hand drops upon death!!
+
+[ZOMBIE_FAIRY_TALE_ARMED_GARGANTUAR_DESCRIPTION_HEADER]
+The Red Queen Imp Zombie's close guard, wielding a heavy shield with exceptional prowess.
+
+[ZOMBIE_FAIRY_TALE_ARMOR1_DESCRIPTION]
+For a playing card soldier zombie, charging forward is paramount—though having a roadblock as armor is ideal.
+
+[ZOMBIE_HALLOWEEN_ARMOR1]
+Halloween Roadblock Zombie
+
+[ZOMBIE_HALLOWEEN_ARMOR1_DESCRIPTION]
+To match the Halloween vibe, this Barricade Zombie sports a custom witch's hat-shaped barrier—stylish and sturdy, though lacking any magical properties.
+
+[ZOMBIE_HALLOWEEN_FLAG]
+Halloween Flag Zombie
+
+[ZOMBIE_NEUROPATHY]
+Doll Box Zombie
+
+[ZOMBIE_NEW_PVP_TUTORIAL_ARMOR1]
+Barricade Zombie
+
+[ZOMBIE_NEW_PVP_TUTORIAL_ARMOR1_DESCRIPTION_HEADER]
+An ordinary zombie wearing an ordinary roadblock on its head
+
+[ZOMBIE_PARKOUR_ARMOR1_DESCRIPTION]
+As the Barricade Zombie passed a skyscraper, a paint bucket suddenly fell from the sky. Luckily, his barricade saved his life, but his newly bought uniform got dirty. He had to go to work covered in paint.
+
+[ZOMBIE_SLIMES]
+Slime Zombie
+
+[ZOMBIE_SLIMES_DESCRIPTION]
+Never wash your hair in front of a Slime Zombie. Whether it makes them more eager to bite your head off, spawns more Slime Zombies, or triggers their fragile compassion—it could be all of the above.
+
+[ZOMBIE_ZOMBIE_JALAPENO]
+Jalapeño Zombie
+
+[ZOMBIE_kongfu_basic_armor3]
+Marshal Zombie
+
+[ZOMBIE_kongfu_basic_armor3_DESCRIPTION]
+{FLAVOR}Being appointed Marshal is the highest honor for Kung Fu Zombies.
+
+[ZOMBIE_kongfu_basic_armor3_DESCRIPTION_HEADER]
+His helmet provides exceptional defense.
+
+[bloominghearts_AVATAR_PLANTFOOD_DESCRIPTION]
+Bellflower's Spinning Fruit throws petals at up to 5 units across the screen, dealing massive damage to zombies^ff0000^ and extra damage to zombies with a heart mark.
+
+[bloominghearts_NEW_SKILL_LEVEL1_DES]
+When a zombie appears to the right of the Bellflower Pitcher, it will throw a Love Fruit. The Bellflower Pitcher's attacks apply a Love Mark to a single zombie, increasing damage based on the number of stacks. A zombie can accumulate up to five Love Marks, each adding 10 damage.
+
+[bloominghearts_NEW_SKILL_LEVEL2_DES]
+Blooming Hearts' attacks have a 50% chance to generate a Mark. Blooming Hearts will prioritize attacking marked zombies.
+
+[bloominghearts_NEW_SKILL_LEVEL3_DES]
+Blooming Hearts' attacks always generate a mark, and it will prioritize attacking marked zombies.
+
+[bloominghearts_NEW_SKILL_LEVEL4_DES]
+When planted, has a low chance to instantly unleash the Energy Bean ultimate!
+
+[bloominghearts_NEW_SKILL_LEVEL5_DES]
+Attacks have a 25% chance to drop seeds within splash range. These seeds grow into thorns that absorb 1000 damage and bind zombies until destroyed.
+
+[bloominghearts_PLANTFOOD_DESCRIPTION]
+Bellflower spins its fruit, hurling petals at up to 5 units across the screen to damage zombies. Deals bonus damage to zombies with a heart mark.
+
 [PVZ2_CHINESE_END]
+
